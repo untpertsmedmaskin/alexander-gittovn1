@@ -2,7 +2,7 @@
 //OBS dålig kod, mjlighet till dublikat => använd inte ;)
 function lottoRad() {
 	
-	alert("Hello! I am an alert box!!");
+	alert("lottoraden är klar");
 	
 	for (var i=0; i<=7; i++) {
 
