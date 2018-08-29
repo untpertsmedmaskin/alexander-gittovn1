@@ -5,6 +5,7 @@ function lottoRad() {
 
 		let lottery = Math.floor(Math.random() * 38)+1;
 	 	document.getElementById ("lotto_" + i).innerHTML = lottery;
+		alert("Hello! I am an alert box!!");
 
 	}
 }
